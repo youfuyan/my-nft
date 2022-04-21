@@ -1,0 +1,19 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Level",
+        "value": "2"
+      },
+      {
+        "trait_type": "price",
+        "value": "5.97237"
+      }
+    ],
+    "description": "If another planet existed that was precisely our size and in our exact orbit, but placed behind the Sun, would we have the means to detect its existence?",
+    "image": "ipfs://QmdZibTYenpniQqUZUsczzrFM2qC4E5rHPFWhCt3vkgLpv",
+    "name": "Planet"
+  }
